@@ -86,7 +86,7 @@ li {
   position: absolute;
   text-align: center;
   z-index: 2;
-  top: 35.6%; /* transform: translate(-50%, -50%);の動きを理解するためpx単位で計算して同じ動きを再現しました。 */
+  top: 35.6%; /* transform: translate(-50%, -50%);の動きを理解するためpx単位で計算して同じレイアウトを再現しました。 */
   left: 38.4%; /* 同上 */
 }
 
